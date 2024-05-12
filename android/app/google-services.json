@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59333753844",
+    "project_id": "sport-83e18",
+    "storage_bucket": "sport-83e18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59333753844:android:314c3b01d47509e640d7a1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_sport_adil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe9U5I_TVt1uPFEMWTpaUR0ySfI80P9K4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

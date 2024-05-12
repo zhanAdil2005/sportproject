@@ -1,0 +1,51 @@
+name: flutter_sport_adil
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.30.1
+  firebase_auth: ^4.19.4
+  email_validator: ^2.1.17
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    #PHOTO
+    - asets/images/qatyn1.png
+    - asets/images/qatyn2.png
+    - asets/images/qatyn3.png
+    - asets/images/logo.png
+    - asets/images/sport_image.png
+    - asets/images/novice_rating.png
+    - asets/images/beginner_rating.png
+    - asets/images/average_rating.png
+    - asets/images/advanced_rating.png
+    - asets/images/pro_rating.png
+    - asets/images/coach_rating.png
+    - asets/images/bike lying down.gif
+    - asets/images/direct press.gif
+    - asets/images/horizontal bar.gif
+    - asets/images/push-ups.gif
+    - asets/images/push-ups_hard.gif
+    - asets/images/turtle.gif
+    - asets/images/Warm-up.gif
+    - asets/images/Warm-up2.gif
+    - asets/images/user.png
+    - asets/images/Diet_Phon.png
+    #ICONS
+    - asets/icons/a1.png
+    - asets/icons/a2.png
+    - asets/icons/a3.png
+    - asets/icons/a4.png
